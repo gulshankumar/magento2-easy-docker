@@ -1,4 +1,4 @@
-# Magento 2 Easy installation on Docker
+# Magento 2.2 Easy installation on Docker
 Run Magento 2 in docker container easily using docker-compose
 
 ## Supported Stack
